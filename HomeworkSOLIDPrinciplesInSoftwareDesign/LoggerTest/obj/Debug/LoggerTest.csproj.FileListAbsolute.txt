@@ -1,0 +1,8 @@
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\bin\Debug\SOLIDLogger.dll
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\bin\Debug\SOLIDLogger.pdb
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\Denislav\Documents\Visual Studio 2013\Projects\HomeworkSOLIDPrinciplesInSoftwareDesign\LoggerTest\obj\Debug\LoggerTest.pdb

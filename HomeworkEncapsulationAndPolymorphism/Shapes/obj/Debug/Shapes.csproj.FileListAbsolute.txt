@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Jack Daniel's\Documents\Visual Studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Jack Daniel's\Documents\Visual Studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe
+C:\Users\Jack Daniel's\Documents\Visual Studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Jack Daniel's\Documents\Visual Studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.exe
+C:\Users\Jack Daniel's\Documents\Visual Studio 2013\Projects\HomeworkEncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.pdb

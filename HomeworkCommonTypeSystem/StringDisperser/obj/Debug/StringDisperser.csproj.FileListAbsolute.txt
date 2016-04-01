@@ -1,0 +1,5 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\StringDisperser\obj\Debug\StringDisperser.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\StringDisperser\obj\Debug\StringDisperser.pdb

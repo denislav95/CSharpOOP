@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.pdb

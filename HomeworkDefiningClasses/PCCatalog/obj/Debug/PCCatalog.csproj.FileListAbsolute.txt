@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\bin\Debug\PCCatalog.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\bin\Debug\PCCatalog.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\bin\Debug\PCCatalog.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\obj\Debug\PCCatalog.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\PCCatalog\obj\Debug\PCCatalog.pdb

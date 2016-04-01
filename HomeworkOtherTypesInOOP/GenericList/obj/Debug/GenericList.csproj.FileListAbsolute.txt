@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\bin\Debug\GenericList.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\bin\Debug\GenericList.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\bin\Debug\GenericList.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\obj\Debug\GenericList.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GenericList\obj\Debug\GenericList.pdb

@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\bin\Debug\Customer.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\bin\Debug\Customer.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\bin\Debug\Customer.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\obj\Debug\Customer.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkCommonTypeSystem\Customer\obj\Debug\Customer.pdb

@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\bin\Debug\StudentClass.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\bin\Debug\StudentClass.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\bin\Debug\StudentClass.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\obj\Debug\StudentClass.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDelegatesAndEvents\StudentClass\obj\Debug\StudentClass.pdb

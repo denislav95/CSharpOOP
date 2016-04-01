@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\bin\Debug\Persons.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\bin\Debug\Persons.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\bin\Debug\Persons.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\obj\Debug\Persons.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\Persons\obj\Debug\Persons.pdb

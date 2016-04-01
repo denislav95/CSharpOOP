@@ -1,0 +1,6 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkOtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.pdb

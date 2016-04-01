@@ -1,0 +1,5 @@
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe.config
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.pdb
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\LaptopShop\obj\Debug\LaptopShop.exe
+c:\users\jack daniel's\documents\visual studio 2013\Projects\HomeworkDefiningClasses\LaptopShop\obj\Debug\LaptopShop.pdb
